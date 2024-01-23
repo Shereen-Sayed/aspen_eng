@@ -30,7 +30,7 @@
             <ul class="nav-menu">
               <li><a href="index.html">Home</a></li>
               <li><a href="About.html">About Us</a></li>
-              <li><a href="services.html">Services</a></li>
+              <li><a href="Aspen_Services.html">Services</a></li>
               <%--<li class="menu-active"><a href="Projects.html">Projects</a></li>--%>
               <li class="menu-has-children"><a href="#">Projects</a>
                 <ul>
@@ -428,7 +428,7 @@
                 <ul>
                     <li><i class="ion-ios-arrow-right"></i> <a href="index.html">Home</a></li>
                     <li><i class="ion-ios-arrow-right"></i> <a href="About.html">About us</a></li>
-                    <li><i class="ion-ios-arrow-right"></i> <a href="Services.html">Services</a></li>
+                    <li><i class="ion-ios-arrow-right"></i> <a href="Aspen_Services.html">Services</a></li>
                     <li><i class="ion-ios-arrow-right"></i> <a href="Projects.html">Projects</a></li>
                     <li><i class="ion-ios-arrow-right"></i> <a href="Careers.html">Careers</a></li>
                     <li><i class="ion-ios-arrow-right"></i> <a href="News.html">News</a></li>
